@@ -47,7 +47,7 @@ Create a through stream that filters file that are already in the cache
 
 ### FileCache.cache()
 
-Cache file in the stram into the cache file
+Cache file in the stream into the cache file
 
 ## License
 
