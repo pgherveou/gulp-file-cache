@@ -1,0 +1,29 @@
+{
+  "name": "gulp-file-cache",
+  "version": "0.0.1",
+  "description": "gulp plugin. Create a cache that filter files in your stream that haven't changed since last run",
+  "keywords": [
+    "gulpplugin",
+    "cache"
+  ],
+  "author": {
+    "name": "PG Herveou",
+    "email": "pg@jogabo.com",
+    "url": "https://github.com/pgherveou"
+  },
+  "repository": "pgherveou/gulp-file-cache",
+  "dependencies": {
+    "through2": "0.x",
+    "gulp-util": "2.x"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "gulp-filelog": "~0.2.0"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "license": "MIT"
+}
