@@ -31,7 +31,7 @@ gulp.src("./src/*.ext")
 
 ## API
 
-### fileCache.create(name)
+### new FileCache(name)
 
 Create a new FileCache instance
 
