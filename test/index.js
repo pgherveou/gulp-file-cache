@@ -30,7 +30,7 @@ describe('gulp-file-cache', function () {
 
   fileCache.clear();
 
-  it('should populated the cache', function (done) {
+  it('should populate the cache', function (done) {
     var stream = fileCache.cache();
 
     stream.on('finish', function() {
