@@ -1,5 +1,5 @@
 # gulp-file-cache
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]  [![Coverage Status][coveralls-image]][coveralls-url] [![Dependency Status][depstat-image]][depstat-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][![Dependency Status][depstat-image]][depstat-url]
 
 > file-cache plugin for [gulp](https://github.com/wearefractal/gulp)
 
@@ -55,12 +55,6 @@ Cache file in the stream into the cache file
 
 [npm-url]: https://npmjs.org/package/gulp-file-cache
 [npm-image]: https://badge.fury.io/js/gulp-file-cache.png
-
-[travis-url]: http://travis-ci.org/pgherveou/gulp-file-cache
-[travis-image]: https://secure.travis-ci.org/pgherveou/gulp-file-cache.png?branch=master
-
-[coveralls-url]: https://coveralls.io/r/pgherveou/gulp-file-cache
-[coveralls-image]: https://coveralls.io/repos/pgherveou/gulp-file-cache/badge.png
 
 [depstat-url]: https://david-dm.org/pgherveou/gulp-file-cache
 [depstat-image]: https://david-dm.org/pgherveou/gulp-file-cache.png
