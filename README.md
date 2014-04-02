@@ -1,5 +1,5 @@
 # gulp-file-cache
-[![NPM version][npm-image]][npm-url] [![Build Status][![Dependency Status][depstat-image]][depstat-url]
+[![NPM version][npm-image]][npm-url][![Dependency Status][depstat-image]][depstat-url]
 
 > file-cache plugin for [gulp](https://github.com/wearefractal/gulp)
 
